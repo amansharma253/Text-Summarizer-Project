@@ -23,7 +23,7 @@ list_of_files =[
     "parmas.yaml",
     "main.py",
     "app.py",
-    "Dockerfile"
+    "Dockerfile",
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb"
